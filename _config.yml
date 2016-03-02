@@ -1,0 +1,28 @@
+name: laguna
+favicon: null
+layout_spectrum: 0.8624396452214569
+typography_spectrum: 0.223023088183254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5298945265822113
+  lightness: 0.7781144115142524
+  saturation: 0.49127360922284424
+  rhythmicContrast: 0.22971129836514592
+purpose: []
