@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[laguna]]></title>
+        <description><![CDATA[laguna]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 06:22:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>3.10.16</p>]]></description>
+            <link>undefinedbe82a577-2af4-44ce-b447-bd984022af55/index.html</link>
+            <guid isPermaLink="false">be82a577-2af4-44ce-b447-bd984022af55</guid>
+            <pubDate>Fri, 11 Mar 2016 06:22:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
