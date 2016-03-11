@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[laguna]]></title>
         <description><![CDATA[laguna]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/laguna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 06:22:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 06:25:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/laguna/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>3.10.16</p>]]></description>
-            <link>undefinedbe82a577-2af4-44ce-b447-bd984022af55/index.html</link>
+            <link>https://thegrid.ai/laguna/be82a577-2af4-44ce-b447-bd984022af55/index.html</link>
             <guid isPermaLink="false">be82a577-2af4-44ce-b447-bd984022af55</guid>
-            <pubDate>Fri, 11 Mar 2016 06:22:25 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 06:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
